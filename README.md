@@ -43,6 +43,18 @@ Based on the original
 - Added restore action button to restore saved values
 
   添加了恢复动作按钮可以恢复保存的数值
+  
+- Removed some code
+  
+  删除了部分~~我看不懂的~~代码
+  
+- Removed a model
+  
+  删除了一个机器人模型
+  
+- Removed the surrounding lights
+  
+  删除了环绕灯光
 
 - Made some modifications to the UI design
 
