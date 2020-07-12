@@ -18,9 +18,31 @@
 
   如果要更改机器人模型，则必须获取DH参数和相应的机器人关节模型（.STL文件）
 
-- Added the environment setting of the visual window on the basis of the original version
+## changes
 
-  在原版的基础上添加了可视化窗口的环境布景
+Based on the original
+
+在原版的基础上
+
+- Added the environment setting of the visual window
+
+  添加了可视化窗口的环境布景
+
+- Added random action button to randomly adjust the value of six joints
+
+  添加了随机动作按钮随机调节六个关节的数值
+
+- Added Save Action button to save a set of values, including joint values, own position and lens position
+
+  添加了保存动作按钮可以保存一组数值，包括关节数值、自身位置和镜头位置
+
+- Added restore action button to restore saved values
+
+  添加了恢复动作按钮可以恢复保存的数值
+
+- Made some modifications to the UI design
+
+  对UI设计进行了一些修改
 
 ## demo
 
