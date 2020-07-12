@@ -12,7 +12,7 @@
 
 - This demo just realize a simple joint movement based on the theory **Method of DH Parameters** ,and the robot model is *UR10
 
-  该演示仅基于**DH **理论实现了简单的关节运动，并且机器人模型为*UR10*
+  该演示仅基于**DH**理论实现了简单的关节运动，并且机器人模型为*UR10*
 
 - If you want to change the robot model, you must obtain the DH parameters and the corresponding robot-joint's model(.STL file)
 
