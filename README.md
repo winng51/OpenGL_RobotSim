@@ -32,6 +32,10 @@ Based on the original
 
   添加了随机动作按钮随机调节六个关节的数值
 
+- Added color switch button
+
+  添加了切换颜色按钮
+  
 - Added Save Action button to save a set of values, including joint values, own position and lens position
 
   添加了保存动作按钮可以保存一组数值，包括关节数值、自身位置和镜头位置
@@ -46,4 +50,6 @@ Based on the original
 
 ## demo
 
-![图片](https://github.com/winng51/OpenGL_RobotSim/blob/master/demo.png?raw=true)
+![demo](https://github.com/winng51/OpenGL_RobotSim/blob/master/demo_1.png?raw=true)
+
+![demo](https://github.com/winng51/OpenGL_RobotSim/blob/master/demo_2.png?raw=true)
